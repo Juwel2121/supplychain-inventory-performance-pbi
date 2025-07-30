@@ -3,6 +3,7 @@
 This repository contains a comprehensive Power BI project that delivers actionable insights into **inventory**, **order fulfillment**, and **supplier performance** for a wholesale distribution business (WideWorldImporters). It is designed for real-time visibility and operational efficiency.
 
 🔗 **Live Repo:** [supplychain-inventory-performance-pbi](https://github.com/Juwel2121/supplychain-inventory-performance-pbi/)
+🔗 **Live Report:** [supplychain-inventory-performance-pbi-report](https://app.fabric.microsoft.com/view?r=eyJrIjoiYTg1ZGQ0MmItMGE5Mi00NWZiLWFmMjktM2YxYTY2MmRhMTgwIiwidCI6IjhkMWJmZjgzLTI0NDEtNGNmYS05NTc3LTE5MzAwMTk5ZGY3OCIsImMiOjN9)
 
 ---
 
