@@ -51,5 +51,4 @@ This project is built using **Microsoft Fabric** and **Power BI**, following the
 
 ---
 
-## 📁 Folder Structure
 
